@@ -1,0 +1,6 @@
+{
+  "couchbase": {
+    "hostname": "couchbase://localhost",
+    "bucket": "restful-sample"
+  }
+}
